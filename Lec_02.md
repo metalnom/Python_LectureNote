@@ -143,7 +143,13 @@ else:
 
 ---
 
-# [Mini Project]
-- 메뉴판 만들기
-![](./img/miniproj1.png){: width="60%" height="60%"}
+# [Mini Project] - 메뉴판 만들기
+
+
+![](./img/miniproj1-640x320.png) 
+
+* input() 함수 활용
+``` python
+menu = input('메뉴를 선택하세요' : )
+```
 
