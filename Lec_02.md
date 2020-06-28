@@ -143,7 +143,7 @@ else:
 
 ---
 
-# [Mini Project] - 메뉴판 만들기
+# [Mini Project] 메뉴판 만들기
 
 
 ![](./img/miniproj1-640x320.png) 
