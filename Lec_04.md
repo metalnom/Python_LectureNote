@@ -10,11 +10,24 @@ marp: true
 ![bg left:60% 60%](https://www.python.org/static/community_logos/python-logo-inkscape.svg)
 
 # **Lec_04**
-### Functions 
+### Variables 3
+### Function 1 
 ### Loop Syntax 2
 
 ---
+# Variables 3
+- Set
 
+---
+# Variables 3
+- Dictionary
+
+---
+# Function 1
+
+---
+# Loop Syntax 2
+- For 문
 
 
 ---
