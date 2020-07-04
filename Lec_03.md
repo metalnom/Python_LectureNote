@@ -152,10 +152,10 @@ i = 0
 
 while True:            # True 혹은 1을 조건으로 하면 무한반복
     i += 1
-    if i % 3 = 0:
+    if i % 3 == 0:
         continue       # continue를 만나면 아래 코드는 실행 하지 않고 다시 반복    
     print(i)
-    if i % 10 = 0:
+    if i % 10 == 0:
         break          # break를 만나면 반복문을 종료함
 
 print('반복문 종료!')
