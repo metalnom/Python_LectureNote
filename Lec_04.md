@@ -24,7 +24,20 @@ marp: true
 
 ---
 # Function 1
-- Function without Return
+- Return 없는 함수
+    - 반복되는 코드를 하나의 함수로 정의
+    - 코드를 간결하고 보기 좋게
+    - 함수의 이름으로 내용을 유추할 수 있게
+
+``` python
+def func():                         // 함수 정의
+    print("=====< 메 뉴 >=====")
+    print("    1. 한  식")
+    print("    2. 중  식")
+    print("    3. 양  식")
+
+func()                              // 함수 사용
+```
 
 ---
 # Loop Syntax 2
