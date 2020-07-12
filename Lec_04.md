@@ -104,7 +104,7 @@ func_2(menu)                        // 함수 사용
 def func_3(a, b):
     sum = a + b
     mul = a * b
-    return sum, sub
+    return sum, mul
 
 c, d = func_3(a, b)
 print('덧셈: {}, 곱셈: {}'.format(c, d))   
