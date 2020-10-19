@@ -15,7 +15,7 @@ marp: true
 ---
 ## Instructor
 **Jung Changdo**
-* (주)에스알시스템 Delphi 개발자
+* Amateur Pythonist
 
 
 ### References
