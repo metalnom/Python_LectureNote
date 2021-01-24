@@ -15,7 +15,8 @@ marp: true
 ---
 ## Instructor
 **Jung Changdo**
-* Amateur Pythonist
+* Daegu Regional Council for Human Resourse Development
+  Senior Researcher
 
 
 ### References
@@ -32,9 +33,9 @@ marp: true
 
 # Python ?
 
-- 배우기 쉽다
-- 무료다
-- 라이브러리가 많다
+- 배우기 쉽고, 무료다
+- 라이브러리가 많다. 
+- Data Science 분야에서 R과 함께 대세 언어
 
 ---
 # Set Up
